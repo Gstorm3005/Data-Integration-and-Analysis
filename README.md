@@ -1,4 +1,4 @@
-# Data Integration and Analysis Project 📊
+# Data Integration and Analysis 📊
 
 This project involved managing data from various sources like PostgreSQL, Excel, and CSV files. The primary goal was to efficiently handle and analyze this diverse data, utilizing tools like Talend, Cloudera and Power BI.
 
