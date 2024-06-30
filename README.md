@@ -39,5 +39,5 @@ This project involved managing data from various sources like PostgreSQL, Excel,
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
 
-- Mohammed Reda Guellati
+- Nadir Zamouche
 - Zakaria Ali Zouaoui
